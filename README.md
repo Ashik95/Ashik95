@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Traveling 
 - 🌱 I’m currently learning ...Rpo
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@redbee_2729
+- 📫 How to reach me ...@redbea_2729
 
 <!---
 Ashik95/Ashik95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
